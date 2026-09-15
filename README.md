@@ -278,3 +278,59 @@ A single-file HTML tool for generating primary school addition, subtraction, mul
 ---
 
 *手册版本：v2.0 · 适用于「加减乘除竖式出题器 单HTML工具 v2.0」*
+
+---
+
+# License / 许可
+
+This project is offered under a **dual-licensing model**:
+
+本项目采用 **双重许可模式**：
+
+## 1. Free for Personal & Noncommercial Use / 个人与非商业使用免费
+
+You may use, copy, modify, and distribute this software **free of charge**
+for any **noncommercial purpose**, including personal study, research,
+hobby projects, and use by noncommercial organizations, under the
+**PolyForm Noncommercial License 1.0.0**.
+
+您可以在 **PolyForm Noncommercial License 1.0.0** 下，为任何**非商业目的**
+（包括个人学习、研究、爱好项目及非商业组织使用）**免费**使用、复制、修改和分发本软件。
+
+See [LICENSE](https://polyformproject.org/licenses/noncommercial/1.0.0) for full terms.
+
+完整条款见 [LICENSE](https://polyformproject.org/licenses/noncommercial/1.0.0) 
+
+## 2. Commercial Use Requires Authorization / 商业使用需授权
+
+**Any commercial use requires a separate written commercial license from the
+author.** This includes, but is not limited to:
+
+**任何商业使用均需获得作者的单独书面商业授权。** 包括但不限于：
+
+- Use by companies, teams, or organizations for internal business purposes
+- Integration into commercial products, services, or SaaS platforms
+- Use in paid consulting, client projects, or revenue-generating activities
+- Distribution as part of a commercial offering
+
+- 公司、团队或组织用于内部商业目的
+- 集成到商业产品、服务或 SaaS 平台
+- 用于付费咨询、客户项目或创收活动
+- 作为商业产品的一部分进行分发
+
+To obtain a commercial license, please contact:
+
+如需获取商业授权，请联系：
+
+📧 **Email**: [yan_black@foxmail.com]
+
+## 3. No License Granted by Default / 默认不授予许可
+
+Without an explicit license, no rights are granted. The commercial license
+is **not** included in this repository and must be obtained separately.
+
+未经明确授权，不授予任何权利。商业许可**不**包含在本仓库中，需单独获取。
+
+---
+
+**Copyright (c) 2026 [[renxingblack](https://github.com/renxingblack/math-vertical-worksheet-generator)]. All rights reserved.**
